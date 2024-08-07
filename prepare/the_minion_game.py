@@ -13,5 +13,3 @@ def minion_game(string: str):
         print("Draw")
     else:
         print(winner, players_with_score[winner])
-
-minion_game("BANANANAAAS")
